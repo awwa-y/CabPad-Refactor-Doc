@@ -1,9 +1,9 @@
-# CabPad-Refactor-Doc（架构升级设计文档）
+﻿# CabPad-Refactor-Doc（架构升级设计文档）
 
 > 本仓库为**设计文档集合**，不包含任何业务源码，用于说明某工程机械车载HMI（CabPad类项目）
 > 从单体Qt应用向4节点微服务架构升级的整体设计思路。配套通用开源中间件见
-> [VehicleIpcBus](https://github.com/yourname/VehicleIpcBus)，车云网关见
-> [SomeIpGateway](https://github.com/yourname/SomeIpGateway)。
+> [VehicleIpcBus](https://github.com/awwa-y/VehicleIpcBus)，车云网关见
+> [SomeIpGateway](https://github.com/awwa-y/SomeIpGateway)。
 
 ---
 
@@ -20,5 +20,5 @@
 
 | 仓库 | 说明 |
 |---|---|
-| [VehicleIpcBus](https://github.com/yourname/VehicleIpcBus) | 开源UDS+epoll IPC中间件实现 |
-| [SomeIpGateway](https://github.com/yourname/SomeIpGateway) | SOME/IP风格车云epoll网关 |
+| [VehicleIpcBus](https://github.com/awwa-y/VehicleIpcBus) | 开源UDS+epoll IPC中间件实现 |
+| [SomeIpGateway](https://github.com/awwa-y/SomeIpGateway) | SOME/IP风格车云epoll网关 |
